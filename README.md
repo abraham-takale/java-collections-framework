@@ -80,7 +80,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/java-collections-framework.git
+git clone https://github.com/abraham-takale/java-collections-framework.git
 ```
 
 ### 2. Enter the project directory
